@@ -1,3 +1,3 @@
 # site
 the site of Minh
-just for testing out javascript
+the official, self made website of Minh Nguyen
